@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+
+    <string name="preference_location">Location</string>
+
+
+</resources>
